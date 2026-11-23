@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Matheus E. L. Eleoterio — AI Developer & Automation Specialist" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Matheus E. L. Eleoterio — AI Developer & Automation" width="100%" />
 </p>
 
 <p align="center">
